@@ -28,7 +28,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [苏轼](https://github.com/whatsdou/whatsdou.github.io.wiki.git).
+For more details see [苏轼](https://github.com/whatsdou/whatsdou.github.io.wiki.git)..
+
+ [苏轼]（https://github.com/whatsdou/whatsdou.github.io.wiki.git）
 
 ### Jekyll Themes
 
