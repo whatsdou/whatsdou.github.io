@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 [苏轼研究](https://github.com/whatsdou/whatsdou.github.io.wiki.git)
 
-
+[苏轼研究](https://github.com/whatsdou/whatsdou.github.io/wiki/%E8%8B%8F%E8%BD%BC%E7%A0%94%E7%A9%B6)
 
  [百度](https://www.baidu.com）
  
